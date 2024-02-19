@@ -6,4 +6,4 @@ I hope to update it from time-to-time as my understanding of how to best layout 
 
 Original text source at: https://www.sfu.ca/~andrewf/CONCEPT2.html
 
-
+At the end of the original, some commentaries on the text have been added.
